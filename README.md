@@ -1,5 +1,8 @@
 <h1 align="center">Hello there! 👋</h1>
 
+- I am a third year computer science student at McGill University
+- When I do not code, I like to play the piano and chess
+
 ## 📊 Stats
 
 <p align="center">
