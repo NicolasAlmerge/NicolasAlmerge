@@ -1,6 +1,7 @@
 <h1 align="center">Hello there! 👋</h1>
 
-- I am a third year computer science student at McGill University
+- I hold a Bachelor of Computer Science from McGill, Canada
+- I'm currently a first-year Computer Science Master's student at EPFL, Switzerland
 - When I do not code, I like to play the piano and chess
 
 ## Stats
