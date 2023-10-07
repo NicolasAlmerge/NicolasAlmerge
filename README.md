@@ -46,4 +46,10 @@
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
+## Version Control
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
+
 <!-- Congratulations, hunter! You found the secret message! -->
