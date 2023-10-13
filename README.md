@@ -4,12 +4,14 @@
 - I'm currently a first-year Computer Science Master's student at EPFL, Switzerland
 - When I do not code, I like to play the piano and chess
 
+
 ## Stats
 
 <p align="center">
   <img src="https://github-readme-stats-puce-nine-20.vercel.app/api?username=NicolasAlmerge&show_icons=true&icon_color=2F80ED&text_color=718096&bg_color=00000000&hide_title=true&custom_title=Overview&include_all_commits=true&count_private=true&title_color=2F80ED&hide_border=true&number_format=long" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-puce-nine-20.vercel.app/api/top-langs/?username=NicolasAlmerge&langs_count=6&layout=compact&title_color=2F80ED&bg_color=00000000&text_color=718096&hide_border=true&exclude_repo=github-readme-stats" alt="GitHub Most Used Languages"/>
 </p>
+
 
 ## Languages
 
@@ -29,6 +31,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
+
 ## IDEs & Text Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
@@ -40,16 +43,21 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
 
+
 ## Hosting
+
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
 ![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
+
 ## Version Control
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
+
 
 <!-- Congratulations, hunter! You found the secret message! -->
