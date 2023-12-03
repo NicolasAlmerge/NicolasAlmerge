@@ -33,7 +33,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?logo=jupyter&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 
 
 ## Hosting
