@@ -39,9 +39,8 @@
 ## Hosting
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 
 ## Version Control
